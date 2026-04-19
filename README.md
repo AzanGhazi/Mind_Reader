@@ -1,3 +1,5 @@
 # PythonMindReader
 A Python Based Mind Reading application which will guess your number from 1-99. 
-Made With Python using tkinter
+Made With Python using tkinter. 
+
+This is a joke app :D
